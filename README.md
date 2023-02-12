@@ -10,12 +10,14 @@ I'm a software developer that loves to explore. I'm currently working to learn C
 
 🎧 I love listening to alternative pop and always looking for new artists to add to my playlists
 
-#### Follow Me Around the Web!
-<a href="www.linkedin.com/in/MeganJu">
+#### Follow Me Around the Web! 🌐
+
+<a href="https://www.linkedin.com/in/MeganJu">
   <img 
        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-   />
-</a>     
+       alt="LinkedIn Logo Badge"
+   >
+</a>
 
 ---
 ### Languages and Tools
