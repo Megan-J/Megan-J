@@ -10,7 +10,9 @@ I'm a software developer that loves to explore. I'm currently working to learn C
 
 🎧 I love listening to alternative pop and always looking for new artists to add to my playlists
 
-#### Follow Me Around the Web! 🌐
+#### Follow Me on LinkedIn! 🌐
+
+Click on the button!
 
 <a href="https://www.linkedin.com/in/MeganJu">
   <img 
