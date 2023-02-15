@@ -43,7 +43,7 @@ Click on the button!
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
 <br/>
 <br/>
-      
+<br/>
       
 ### Stats 📊
 
