@@ -4,13 +4,17 @@
 
 I'm a software developer that loves to explore. I'm currently working to learn C to understand operating systems. I strive to take advantage of every opportunity I'm given to learn the world of computing!
 
-#### Fun Facts ⭐️
+#
+
+### Fun Facts ⭐️
 
 👩🏻‍💻 Java was the first language I ever coded in
 
 🎧 I love listening to alternative pop and always looking for new artists to add to my playlists
 
-#### Follow Me on LinkedIn! 🌐
+#
+
+### Follow Me on LinkedIn! 🌐
 
 Click on the button!
 
@@ -43,8 +47,9 @@ Click on the button!
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"/>
 <br/>
 <br/>
-<br/>
-      
+
+#
+
 ### Stats 📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=Megan-J&show_icons=true&theme=rose_pine&border_radius=10" />
