@@ -16,7 +16,3 @@ Click on the button!
        alt="LinkedIn Logo Badge"
    >
 </a>
-
-### Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=Megan-J&show_icons=true&theme=rose_pine&border_radius=10" />
