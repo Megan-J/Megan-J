@@ -1,4 +1,3 @@
-![](https://github.com/Megan-J/Megan-J/blob/main/Github-ReadMe-Banner.jpg)
 
 # Hi, I'm Megan! 😁
 
