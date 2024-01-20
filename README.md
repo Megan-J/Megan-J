@@ -2,7 +2,7 @@
 
 # Hi, I'm Megan! 😁
 
-I'm a software developer that loves to explore. I'm currently working to learn C to understand operating systems. I strive to take advantage of every opportunity I'm given to learn the world of computing!
+I'm a software developer that loves to explore. I strive to take advantage of every opportunity I'm given to learn the world of computing!
 
 #
 
