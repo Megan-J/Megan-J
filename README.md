@@ -1,7 +1,7 @@
 ![](https://github.com/Megan-J/Megan-J/blob/main/Banner.png)
 
 <p align="center">
-  Hello there! Feel free to follow me!
+  Hello there! 👋 Feel free to follow me!
 </p>
 
 
